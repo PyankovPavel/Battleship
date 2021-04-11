@@ -1,0 +1,88 @@
+# Project exclude paths
+/.gradle/
+/Topics/Constructor/Account and its owner/build/
+/Topics/Constructor/Account and its owner/build/classes/java/main/
+/Topics/Constructor/Theory/build/
+/Topics/Constructor/Theory/build/classes/java/main/
+/Topics/Constructor/User/build/
+/Topics/Constructor/User/build/classes/java/main/
+/Topics/Declaring a method/Calculating factorials/build/
+/Topics/Declaring a method/Calculating factorials/build/classes/java/main/
+/Topics/Declaring a method/Division/build/
+/Topics/Declaring a method/Division/build/classes/java/main/
+/Topics/Declaring a method/Raise to the power/build/
+/Topics/Declaring a method/Raise to the power/build/classes/java/main/
+/Topics/Declaring a method/The sign of a number/build/
+/Topics/Declaring a method/The sign of a number/build/classes/java/main/
+/Topics/Declaring a method/Theory/build/
+/Topics/Declaring a method/Theory/build/classes/java/main/
+/Topics/Declaring a method/Vowel or not/build/
+/Topics/Declaring a method/Vowel or not/build/classes/java/main/
+/Topics/Defining classes/Accounts/build/
+/Topics/Defining classes/Accounts/build/classes/java/main/
+/Topics/Defining classes/Books/build/
+/Topics/Defining classes/Books/build/classes/java/main/
+/Topics/Defining classes/Inner boxes/build/
+/Topics/Defining classes/Inner boxes/build/classes/java/main/
+/Topics/Defining classes/Points on the 2D plane/build/
+/Topics/Defining classes/Points on the 2D plane/build/classes/java/main/
+/Topics/Defining classes/Theory/build/
+/Topics/Defining classes/Theory/build/classes/java/main/
+/Topics/Instance methods/Car/build/
+/Topics/Instance methods/Car/build/classes/java/main/
+/Topics/Instance methods/Circle/build/
+/Topics/Instance methods/Circle/build/classes/java/main/
+/Topics/Instance methods/Complex numbers/build/
+/Topics/Instance methods/Complex numbers/build/classes/java/main/
+/Topics/Instance methods/Simulating a clock/build/
+/Topics/Instance methods/Simulating a clock/build/classes/java/main/
+/Topics/Instance methods/Theory/build/
+/Topics/Instance methods/Theory/build/classes/java/main/
+/Topics/Integer types and operations/Arithmetic expression/build/
+/Topics/Integer types and operations/Arithmetic expression/build/classes/java/main/
+/Topics/Integer types and operations/Desks/build/
+/Topics/Integer types and operations/Desks/build/classes/java/main/
+/Topics/Integer types and operations/Difference of times/build/
+/Topics/Integer types and operations/Difference of times/build/classes/java/main/
+/Topics/Integer types and operations/First digit/build/
+/Topics/Integer types and operations/First digit/build/classes/java/main/
+/Topics/Integer types and operations/How many nuts each squirrel will get/build/
+/Topics/Integer types and operations/How many nuts each squirrel will get/build/classes/java/main/
+/Topics/Integer types and operations/Next even number/build/
+/Topics/Integer types and operations/Next even number/build/classes/java/main/
+/Topics/Integer types and operations/Reading integer numbers/build/
+/Topics/Integer types and operations/Reading integer numbers/build/classes/java/main/
+/Topics/Integer types and operations/Reversing/build/
+/Topics/Integer types and operations/Reversing/build/classes/java/main/
+/Topics/Integer types and operations/Reversing input numbers/build/
+/Topics/Integer types and operations/Reversing input numbers/build/classes/java/main/
+/Topics/Integer types and operations/Snail/build/
+/Topics/Integer types and operations/Snail/build/classes/java/main/
+/Topics/Integer types and operations/Squirrels and nuts/build/
+/Topics/Integer types and operations/Squirrels and nuts/build/classes/java/main/
+/Topics/Integer types and operations/The sum of digits/build/
+/Topics/Integer types and operations/The sum of digits/build/classes/java/main/
+/Topics/Integer types and operations/Theory/build/
+/Topics/Integer types and operations/Theory/build/classes/java/main/
+/Topics/Iterating over arrays/Alphabetical order/build/
+/Topics/Iterating over arrays/Alphabetical order/build/classes/java/main/
+/Topics/Iterating over arrays/Count how many times a number occurs/build/
+/Topics/Iterating over arrays/Count how many times a number occurs/build/classes/java/main/
+/Topics/Iterating over arrays/Right Rotation/build/
+/Topics/Iterating over arrays/Right Rotation/build/classes/java/main/
+/Topics/Iterating over arrays/The index of the first max in an array/build/
+/Topics/Iterating over arrays/The index of the first max in an array/build/classes/java/main/
+/Topics/Iterating over arrays/The longest ascending sequence/build/
+/Topics/Iterating over arrays/The longest ascending sequence/build/classes/java/main/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/build/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/build/classes/java/main/
+/Topics/Iterating over arrays/The minimum value of an array/build/
+/Topics/Iterating over arrays/The minimum value of an array/build/classes/java/main/
+/Topics/Iterating over arrays/Theory/build/
+/Topics/Iterating over arrays/Theory/build/classes/java/main/
+/Topics/Iterating over arrays/Triples/build/
+/Topics/Iterating over arrays/Triples/build/classes/java/main/
+/Topics/Package/Binary search/build/
+/Topics/Package/Binary search/build/classes/java/main/
+/Topics/Package/Theory/build/
+/Topics/Package/Theory/build/classes/java/main/
